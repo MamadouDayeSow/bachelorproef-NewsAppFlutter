@@ -1,6 +1,6 @@
 # news_app
 
-A new Flutter project.
+Bachelorproef project: NewsApp
 
 ## Getting Started
 
